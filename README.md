@@ -6,6 +6,6 @@ Página web inspirada para un hotel
 <br>
 No optimizada para algunas resoluciones 16:9
 <h2>EN</h2>
-<p>Website inspired for an hotel</p>
+Website inspired for an hotel
 <br>
-<p>Not optimized for some 16:9 resolutions</p>
+Not optimized for some 16:9 resolutions
